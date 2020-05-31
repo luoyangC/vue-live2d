@@ -29,6 +29,7 @@
 import './live2d.min.js'
 
 export default {
+  name: 'LiveCard',
   data() {
     return {
       messageTimer: null,
