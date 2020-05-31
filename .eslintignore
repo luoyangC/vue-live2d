@@ -1,0 +1,7 @@
+build/*.js
+src/components/live2d/*.js
+src/assets
+public
+static
+assets
+dist
